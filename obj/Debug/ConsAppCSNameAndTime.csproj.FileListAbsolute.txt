@@ -1,0 +1,6 @@
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppCSNameAndTime\ConsAppCSNameAndTime\bin\Debug\ConsAppCSNameAndTime.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppCSNameAndTime\ConsAppCSNameAndTime\bin\Debug\ConsAppCSNameAndTime.exe
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppCSNameAndTime\ConsAppCSNameAndTime\bin\Debug\ConsAppCSNameAndTime.pdb
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppCSNameAndTime\ConsAppCSNameAndTime\obj\Debug\ConsAppCSNameAndTime.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppCSNameAndTime\ConsAppCSNameAndTime\obj\Debug\ConsAppCSNameAndTime.exe
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppCSNameAndTime\ConsAppCSNameAndTime\obj\Debug\ConsAppCSNameAndTime.pdb
